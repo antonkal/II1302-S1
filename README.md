@@ -1,2 +1,2 @@
-# II1302_S1
-Källkod till första seminariet i kursen "II1302 - Projekt &amp; Projektmetoder"
+# punchclock
+A simple MERN-like application for the course II1302 at the Royal Institute of Technology.
